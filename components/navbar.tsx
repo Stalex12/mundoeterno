@@ -24,7 +24,7 @@ export function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
             <Image
-              src="logo.png"
+              src="Logo.png"
               alt="Florería Logo"
               width={70}
               height={40}
@@ -32,7 +32,7 @@ export function Navbar() {
               style={{ objectFit: "contain" }}
             />
             <Image
-              src="nombre.png"
+              src="Nombre.png"
               alt="Florería Logo"
               width={200}
               height={400}
