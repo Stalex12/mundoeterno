@@ -1,0 +1,25 @@
+/* [project]/app/amoresa_d5911f14.module.css [app-client] (css) */
+@font-face {
+  font-family: amoresa;
+  src: url("../media/Amoresa-s.p.76521f64.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: amoresa Fallback;
+  src: local(Arial);
+  ascent-override: 112.02%;
+  descent-override: 97.6%;
+  line-gap-override: 0.92%;
+  size-adjust: 95.51%;
+}
+
+.amoresa_d5911f14-module__KoZvpa__className {
+  font-family: amoresa, amoresa Fallback;
+}
+
+.amoresa_d5911f14-module__KoZvpa__variable {
+  --font-amoresa: "amoresa", "amoresa Fallback";
+}
+
+/*# sourceMappingURL=app_amoresa_d5911f14_module_css_bad6b30c._.single.css.map*/

@@ -1,0 +1,25 @@
+/* [project]/app/perandory_3d92c30c.module.css [app-client] (css) */
+@font-face {
+  font-family: perandory;
+  src: url("../media/Amoresa-s.p.76521f64.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: perandory Fallback;
+  src: local(Arial);
+  ascent-override: 112.02%;
+  descent-override: 97.6%;
+  line-gap-override: 0.92%;
+  size-adjust: 95.51%;
+}
+
+.perandory_3d92c30c-module__M3fu5q__className {
+  font-family: perandory, perandory Fallback;
+}
+
+.perandory_3d92c30c-module__M3fu5q__variable {
+  --font-perandory: "perandory", "perandory Fallback";
+}
+
+/*# sourceMappingURL=app_perandory_3d92c30c_module_css_bad6b30c._.single.css.map*/
